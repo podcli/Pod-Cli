@@ -24,7 +24,7 @@ Tech Stack: [Python](http://www.python.org)/[Java](https://www.java.com/en/), [B
  ake 
  bolega
 
-### THIS INFOGRAPHIC SHOWS THE IMAPCT OF OUR TEXT DERIVED FROM THE AUDIO AND THE SUMMERIZED TEXT 
+## THIS INFOGRAPHIC SHOWS THE IMAPCT OF OUR TEXT DERIVED FROM THE AUDIO AND THE SUMMERIZED TEXT 
 ![ereu](https://user-images.githubusercontent.com/93109368/222952944-84f773cc-ba4a-4eb2-b588-16aae29298be.png)
 
 
