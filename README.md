@@ -16,8 +16,8 @@ Often, we find ourselves in situations where we can't spare enough time to liste
 1. It takes the audio from the YouTube/Spotify database or audio is provided and use Natural Language Processing and AI trained models to convert the speech into text files.
 2. At first Audio is provided then it is given to the Assembly-ai api to come up with text file(basically converting audio to text).
 3. The obtained raw file which contain fresly generated text,is then processed through regex and packages like nltk to summarize by removing stopwords,repetitions and complexity and using approaches like:
-Extractive Summarization
-Abstractive Summarization
+ a. Extractive Summarization
+ b. Abstractive Summarization
 frequency algorithm and through English syntax analysis
 
 ## INITIAL STAGE VS PRESENT STAGE OF THE PROJECT
