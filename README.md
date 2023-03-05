@@ -24,8 +24,9 @@ Tech Stack: [Python](http://www.python.org)/[Java](https://www.java.com/en/), [B
  ake 
  bolega
 
-## THIS INFOGRAPHIC SHOWS THE IMAPCT OF OUR TEXT DERIVED FROM THE AUDIO AND THE SUMMERIZED TEXT 
-![summerization](https://user-images.githubusercontent.com/93109368/222952904-e75ad3c3-de5d-4bed-a8c8-553a1d38c70d.jpg)
+### THIS INFOGRAPHIC SHOWS THE IMAPCT OF OUR TEXT DERIVED FROM THE AUDIO AND THE SUMMERIZED TEXT 
+![ereu](https://user-images.githubusercontent.com/93109368/222952944-84f773cc-ba4a-4eb2-b588-16aae29298be.png)
+
 
 ## optional packages/api:
 1. Speech recognition engine/API support
