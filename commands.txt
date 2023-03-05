@@ -1,2 +1,7 @@
+These are the commands to be executed in order to run transcribe.py to generate the transcript.txt 
+
 export AAI_API_KEY=<API-Key>
-python transcribe.py "/home/stonedseeker/Data/Downloads/MLKDream [TubeRipper.com].mp3" --local
+python transcribe.py "/home/stonedseeker/Data/Downloads/MLKDream [TubeRipper.com].mp3" --local 
+
+reference for assembly ai:
+https://www.assemblyai.com/blog/assemblyai-and-python-in-5-minutes/
