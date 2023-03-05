@@ -6,7 +6,8 @@
 
 
 
-<span style="color:red">PROBLEM STATEMENT</spam>
+## PROBLEM STATEMENT
+Often, we find ourselves in situations where we can't spare enough time to listen to our beloved podcast. As technology enthusiasts, Pod-Cli transforms your humungous audio podcasts into text and provide you with a concise summary. The best part is that you can now enjoy listening to your favorite music while simultaneously reading the summarized text of your podcast.
 
 
 PodCli is a opensource and free software that delivers short and crisp summaries to lengthy and boring videos and audios of Podcast.
