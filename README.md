@@ -18,7 +18,7 @@ Often, we find ourselves in situations where we can't spare enough time to liste
 3. It is then given to the [GPT-3](https://openai.com/product) api to come up with a summary.
 Tech Stack: [Python](http://www.python.org)/[Java](https://www.java.com/en/), [Bash Scripting](https://www.javatpoint.com/bash-scripting).
 
-## optional pacakages/api:
+## optional packages/api:
 1. Speech recognition engine/API support
 2. CMU Sphinx (works offline)
 3. Google Speech Recognition
