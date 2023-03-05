@@ -1,5 +1,5 @@
 # Pod-Cli  
-####PodCli is a opensource and free software that delivers short and crisp summaries to lengthy and boring videos and audios of Podcast.
+PodCli is a opensource and free software that delivers short and crisp summaries to lengthy and boring videos and audios of Podcast.
 ![podcli](https://user-images.githubusercontent.com/93109368/222878158-63097e03-6469-4cc3-bc86-dd12a97c0728.jpg)
 
 
