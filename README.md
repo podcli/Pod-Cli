@@ -19,10 +19,9 @@ Often, we find ourselves in situations where we can't spare enough time to liste
 Tech Stack: [Python](http://www.python.org)/[Java](https://www.java.com/en/), [Bash Scripting](https://www.javatpoint.com/bash-scripting).
 
 ## INITIAL STAGE VS PRESENT STAGE OF THE PROJECT
- Intially we tried to run using python.....blah blah blahh,  
- vaibhav
- ake 
- bolega
+ Intially, we approached an algorithm that first divided the audio files into chunks of smaller length, then these chunks were individually processed to extract the text, the problem with this model was installing a number of dependencies and their incompatibility with the OS. We shifted our focus to whisper AI api which is an OSS by Open AI but that also did not go very well because of accuracy issues. 
+ At last, we found Assembly AI, handling the mp3 files with assembly AI is not at all complex, and the accuracy of the text generated is very almost perfect. The user need to get their own access token from their website, by following the commands given in "commands.txt" file a transcript.txt file is generated the file is then passed over to the "txtsumry.py" file that generates a short, crist and precise summary of the audio file instaniously. 
+ The generation of transcript takes about 10% to 15% of the time of the original audio file.
 
 ## THIS INFOGRAPHIC SHOWS THE IMAPCT OF OUR TEXT DERIVED FROM THE AUDIO AND THE SUMMERIZED TEXT 
 ![ereu](https://user-images.githubusercontent.com/93109368/222952944-84f773cc-ba4a-4eb2-b588-16aae29298be.png)
