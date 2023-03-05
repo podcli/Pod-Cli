@@ -28,13 +28,6 @@ Tech Stack: [Python](http://www.python.org)/[Java](https://www.java.com/en/), [B
 ![ereu](https://user-images.githubusercontent.com/93109368/222952944-84f773cc-ba4a-4eb2-b588-16aae29298be.png)
 
 
-## optional packages/api:
-1. Speech recognition engine/API support
-2. CMU Sphinx (works offline)
-3. Google Speech Recognition
-4. Google Cloud Speech API
-5. Wit.ai
-6. Microsoft Bing Voice Recognition
-7. Houndify API
-8. IBM Speech to Text
-9. Snowboy Hotword Detection (works offline)
+## PACKAGES/API USED
+1.nltk
+2.assembly AI
