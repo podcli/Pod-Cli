@@ -13,10 +13,12 @@ Often, we find ourselves in situations where we can't spare enough time to liste
 
 
 ## How Pod-Cli works:
-1. We take the data from the YouTube/Spotify database and use [Natural Language Processing](https://www.ibm.com/in-en/topics/natural-language-processing) to convert the speech into [text files](https://en.wikipedia.org/wiki/Text_file).
-2. The obtained transcript are then processed through [regex](https://regex101.com) to shorten it by removing repetitions and complexity.
-3. It is then given to the [GPT-3](https://openai.com/product) api to come up with a summary.
-Tech Stack: [Python](http://www.python.org)/[Java](https://www.java.com/en/), [Bash Scripting](https://www.javatpoint.com/bash-scripting).
+1. It takes the audio from the YouTube/Spotify database or audio is provided and use Natural Language Processing and AI trained models to convert the speech into text files.
+2. At first Audio is provided then it is given to the Assembly-ai api to come up with text file(basically converting audio to text).
+3. The obtained raw file which contain fresly generated text,is then processed through regex and packages like nltk to summarize by removing stopwords,repetitions and complexity and using approaches like:
+Extractive Summarization
+Abstractive Summarization
+frequency algorithm and through English syntax analysis
 
 ## INITIAL STAGE VS PRESENT STAGE OF THE PROJECT
  Intially, we approached an algorithm that first divided the audio files into chunks of smaller length, then these chunks were individually processed to extract the text, the problem with this model was installing a number of dependencies and their incompatibility with the OS. We shifted our focus to whisper AI api which is an OSS by Open AI but that also did not go very well because of accuracy issues. 
