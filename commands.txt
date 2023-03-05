@@ -1,0 +1,2 @@
+export AAI_API_KEY=8cd43e7772a44ba79d3a5023def944ae
+python transcribe.py "/home/stonedseeker/Data/Downloads/MLKDream [TubeRipper.com].mp3" --local
